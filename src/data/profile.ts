@@ -27,7 +27,7 @@ export const education = {
 
 export const skills: { category: string; items: string[] }[] = [
   { category: 'Web Development', items: ['React.js', 'Angular', 'Responsive UI'] },
-  { category: 'Mobile Development', items: ['React Native'] },
+  { category: 'Mobile Development', items: ['React Native'] },//chages trigger
   {
     category: 'Backend Development',
     items: ['.NET Core', 'Laravel', 'NoSQL', 'RESTful APIs', 'Azure AD'],
